@@ -1,1 +1,1 @@
-# Brain-Tumor-Diagnosis
+# Brain Tumor Diagnosis
